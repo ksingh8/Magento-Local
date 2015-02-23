@@ -16,7 +16,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+app/etc/local.xml
 # =========================
 # Operating System Files
 # =========================
